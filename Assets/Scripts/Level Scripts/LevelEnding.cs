@@ -15,7 +15,7 @@ public class LevelEnding : MonoBehaviour
     {
     }
 
-    void FixedUpdate()
+    void Update()
     {
         if (levelCompleted[levelNumber])
         {
