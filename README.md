@@ -1,7 +1,3 @@
-This is a short platformer about an explorer collecting gems in a cave prototype side project
-
-The game can be played here: https://abe-54.itch.io/gem-hunter
-
 ## Gem Hunter
 This is a short platformer, where the player is an adventurer, exploring a cave to find gems. The game was built within the [Unity](https://unity.com/) over the course of a month. 
 
@@ -23,7 +19,7 @@ I decided to make this game because I had an idea and I wanted to explore it. I 
 - How to make simple pixel art for UI and Gameplay
 
 ## Where To Play?
-The game can be played at https://abe-54.itch.io/walk-or-die
+The game can be played at https://abe-54.itch.io/gem-hunter
 
 ## Credits
 Abraham Rubio (Game Programmer & Game Designer)
