@@ -22,9 +22,7 @@ I decided to make this game because I had an idea and I wanted to explore it. I 
 The game can be played at https://abe-54.itch.io/gem-hunter
 
 ## Credits
-- Abraham Rubio (Game Programmer & Game Designer)
-- Yasmine (Artist)
-- Bryant (Music & Sound Designer)
+- Abraham Rubio (Game Programmer, Game Designe & Artist)
 
 
 ## License
